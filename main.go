@@ -3,7 +3,7 @@ package main
 import (
   "fmt"
 
-  "github.com/marten-seemann/testrepo"
+  "github.com/quic-go/testrepo"
 )
 
 func main() {
